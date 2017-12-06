@@ -1,7 +1,6 @@
 def captcha(input):
     total = 0
     digits = list(map(lambda d: int(d), input))
-    print digits
 
     for idx, val in enumerate(digits):
         # jump = 1
