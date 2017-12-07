@@ -1,7 +1,7 @@
 file_name = "05\input.txt"
 
 ######################################
-# FIRST START
+# FIRST STAR
 ######################################
 data = list(open(file_name).readlines())
 data = map(lambda r: int(r), data)
@@ -24,7 +24,7 @@ print "First: "
 print counter
 
 ######################################
-# SECOND START
+# SECOND STAR
 ######################################
 data = list(open(file_name).readlines())
 data = map(lambda r: int(r), data)
