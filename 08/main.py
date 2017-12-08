@@ -5,6 +5,7 @@ class Processor():
 
     def __init__(self):
         self.variables = {}
+        self.max_value = 0
 
     def process(self, instructions):
         for instruction in instructions:
@@ -62,11 +63,14 @@ class Processor():
 
     def set_value(self, variable, value):
         self.variables[variable] = value
+        if value > self.max_value:
+            self.max_value = value
 
-    def largest_value(self):
+    def get_largest_variable(self):
         return max(p.variables.values())
 
 p = Processor()
 p.process(instructions)
 print p.variables
-print p.largest_value()
+print p.get_largest_variable()
+print p.max_value
