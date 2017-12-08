@@ -7,9 +7,12 @@ class MemoryBanks:
         self.data = data
         self.count = 0
         self.combinations = []
+        self.loops_count = 0
 
     def balance(self):
         if self.data in self.combinations:
+            index = self.combinations.index(self.data)
+            self.loops_count = len(self.combinations) - index
             return False
         else:
             self.combinations.append(self.data[:])
@@ -31,12 +34,13 @@ class MemoryBanks:
         for b in range(0, blocks):
             index = index + 1 if index < len(self.data) - 1 else 0
             self.data[index] += 1
-            
+
 ##############################################
 
 m = MemoryBanks(data)
 
 while m.balance():
-    print m.data
+    pass
 
 print m.count
+print m.loops_count
