@@ -1,4 +1,4 @@
-file_name = "05\input.txt"
+file_name = "05\sample.txt"
 
 ######################################
 # FIRST STAR
