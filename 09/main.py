@@ -8,6 +8,7 @@ for line in lines:
     level = 0
     garbage = False
     skip_next = False
+    garbage_count = 0
 
     for char in line:
         if skip_next:
@@ -27,8 +28,12 @@ for line in lines:
                 level -= 1
                 count += groups[-1]
                 groups.pop()
-        elif char == ">":
-            garbage = False
+        else:
+            if char == ">":
+                garbage = False
+            else:
+                garbage_count += 1
 
 
     print count
+    print garbage_count
