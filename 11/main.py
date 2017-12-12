@@ -38,11 +38,15 @@ class Grid():
 
     def __init__(self):
         self.reset()
+        self.max_distance = 0
 
     def reset(self):
         self.x = 0
         self.y = 0
         self.z = 0
+
+    def get_distance(self):
+        return (abs(self.x) + abs(self.y) + abs(self.z)) / 2
 
     def move(self, steps):
         for step in steps:
@@ -50,9 +54,8 @@ class Grid():
             self.y += movements[step]["y"]
             self.z += movements[step]["z"]
 
-    def get_distance(self):
-        return (abs(self.x) + abs(self.y) + abs(self.z)) / 2
-
+            if self.get_distance() > self.max_distance:
+                self.max_distance = self.get_distance()
 
 samples = [
     ["ne", "ne", "ne"],
@@ -71,3 +74,4 @@ g = Grid()
 g.reset()
 g.move(data)
 print g.get_distance()
+print g.max_distance
