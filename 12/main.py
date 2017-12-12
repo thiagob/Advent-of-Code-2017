@@ -44,9 +44,25 @@ class ProgramList():
                 self.get_links(mngr.get_program(sub))
         return set(self.links)
 
+    def get_groups(self):
+        count = 0
+        remaining = self.programs.keys()
+        while len(remaining) > 0:
+            program = remaining[0]
+            
+            self.clear_links()
+            links = self.get_links(mngr.get_program(program))
+            
+            for link in links:
+                remaining.remove(link)
+            count += 1
+        return count
+
 
 mngr = ProgramList()
 mngr.process(data)
 
 mngr.clear_links()
 print len(mngr.get_links(mngr.get_program('0')))
+
+print mngr.get_groups()
