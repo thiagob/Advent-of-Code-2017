@@ -1,0 +1,275 @@
+{'count': 10000, 'now': '00:42:47.731000', 'programs': 'jcobhadfnmpkglie'}
+1.0% (10000000/1000000000)
+{'count': 10000000, 'now': '00:43:19.459000', 'programs': 'pclhmengojfdkaib'}
+
+2.0% (20000000/1000000000)
+{'count': 20000000, 'now': '00:43:50.186000', 'programs': 'nogfkpaecjmihdbl'}
+
+3.0% (30000000/1000000000)
+{'count': 30000000, 'now': '00:44:20.796000', 'programs': 'abcdefghijklmnop'}
+
+4.0% (40000000/1000000000)
+{'count': 40000000, 'now': '00:44:52.081000', 'programs': 'pclhmengojfdkaib'}
+
+5.0% (50000000/1000000000)
+{'count': 50000000, 'now': '00:45:22.616000', 'programs': 'nogfkpaecjmihdbl'}
+
+6.0% (60000000/1000000000)
+{'count': 60000000, 'now': '00:45:53.255000', 'programs': 'abcdefghijklmnop'}
+
+8.0% (80000000/1000000000)
+{'count': 80000000, 'now': '00:46:55.581000', 'programs': 'nogfkpaecjmihdbl'}
+
+9.0% (90000000/1000000000)
+{'count': 90000000, 'now': '00:47:29.144000', 'programs': 'abcdefghijklmnop'}
+
+10.0% (100000000/1000000000)
+{'count': 100000000, 'now': '00:48:01.122000', 'programs': 'pclhmengojfdkaib'}
+
+11.0% (110000000/1000000000)
+{'count': 110000000, 'now': '00:48:31.925000', 'programs': 'nogfkpaecjmihdbl'}
+
+12.0% (120000000/1000000000)
+{'count': 120000000, 'now': '00:49:03.366000', 'programs': 'abcdefghijklmnop'}
+
+13.0% (130000000/1000000000)
+{'count': 130000000, 'now': '00:49:34.287000', 'programs': 'pclhmengojfdkaib'}
+
+15.0% (150000000/1000000000)
+{'count': 150000000, 'now': '00:50:35.765000', 'programs': 'abcdefghijklmnop'}
+
+16.0% (160000000/1000000000)
+{'count': 160000000, 'now': '00:51:06.800000', 'programs': 'pclhmengojfdkaib'}
+
+17.0% (170000000/1000000000)
+{'count': 170000000, 'now': '00:51:38.017000', 'programs': 'nogfkpaecjmihdbl'}
+
+18.0% (180000000/1000000000)
+{'count': 180000000, 'now': '00:52:09.031000', 'programs': 'abcdefghijklmnop'}
+
+19.0% (190000000/1000000000)
+{'count': 190000000, 'now': '00:52:39.901000', 'programs': 'pclhmengojfdkaib'}
+
+20.0% (200000000/1000000000)
+{'count': 200000000, 'now': '00:53:10.976000', 'programs': 'nogfkpaecjmihdbl'}
+
+21.0% (210000000/1000000000)
+{'count': 210000000, 'now': '00:53:42.184000', 'programs': 'abcdefghijklmnop'}
+
+22.0% (220000000/1000000000)
+{'count': 220000000, 'now': '00:54:16.480000', 'programs': 'pclhmengojfdkaib'}
+
+23.0% (230000000/1000000000)
+{'count': 230000000, 'now': '00:54:47.237000', 'programs': 'nogfkpaecjmihdbl'}
+
+24.0% (240000000/1000000000)
+{'count': 240000000, 'now': '00:55:18.252000', 'programs': 'abcdefghijklmnop'}
+
+25.0% (250000000/1000000000)
+{'count': 250000000, 'now': '00:55:49.168000', 'programs': 'pclhmengojfdkaib'}
+
+26.0% (260000000/1000000000)
+{'count': 260000000, 'now': '00:56:19.997000', 'programs': 'nogfkpaecjmihdbl'}
+
+27.0% (270000000/1000000000)
+{'count': 270000000, 'now': '00:56:51.085000', 'programs': 'abcdefghijklmnop'}
+
+30.0% (300000000/1000000000)
+{'count': 300000000, 'now': '00:58:23.678000', 'programs': 'abcdefghijklmnop'}
+
+31.0% (310000000/1000000000)
+{'count': 310000000, 'now': '00:58:54.399000', 'programs': 'pclhmengojfdkaib'}
+
+32.0% (320000000/1000000000)
+{'count': 320000000, 'now': '00:59:25.769000', 'programs': 'nogfkpaecjmihdbl'}
+
+33.0% (330000000/1000000000)
+{'count': 330000000, 'now': '00:59:56.769000', 'programs': 'abcdefghijklmnop'}
+
+34.0% (340000000/1000000000)
+{'count': 340000000, 'now': '01:00:27.248000', 'programs': 'pclhmengojfdkaib'}
+
+35.0% (350000000/1000000000)
+{'count': 350000000, 'now': '01:00:57.848000', 'programs': 'nogfkpaecjmihdbl'}
+
+36.0% (360000000/1000000000)
+{'count': 360000000, 'now': '01:01:28.891000', 'programs': 'abcdefghijklmnop'}
+
+37.0% (370000000/1000000000)
+{'count': 370000000, 'now': '01:01:59.497000', 'programs': 'pclhmengojfdkaib'}
+
+38.0% (380000000/1000000000)
+{'count': 380000000, 'now': '01:02:30.195000', 'programs': 'nogfkpaecjmihdbl'}
+
+39.0% (390000000/1000000000)
+{'count': 390000000, 'now': '01:03:00.818000', 'programs': 'abcdefghijklmnop'}
+
+40.0% (400000000/1000000000)
+{'count': 400000000, 'now': '01:03:31.787000', 'programs': 'pclhmengojfdkaib'}
+
+41.0% (410000000/1000000000)
+{'count': 410000000, 'now': '01:04:03.056000', 'programs': 'nogfkpaecjmihdbl'}
+
+42.0% (420000000/1000000000)
+{'count': 420000000, 'now': '01:04:35.007000', 'programs': 'abcdefghijklmnop'}
+
+43.0% (430000000/1000000000)
+{'count': 430000000, 'now': '01:05:06.394000', 'programs': 'pclhmengojfdkaib'}
+
+44.0% (440000000/1000000000)
+{'count': 440000000, 'now': '01:05:37.562000', 'programs': 'nogfkpaecjmihdbl'}
+
+45.0% (450000000/1000000000)
+{'count': 450000000, 'now': '01:06:08.268000', 'programs': 'abcdefghijklmnop'}
+
+46.0% (460000000/1000000000)
+{'count': 460000000, 'now': '01:06:39.396000', 'programs': 'pclhmengojfdkaib'}
+
+47.0% (470000000/1000000000)
+{'count': 470000000, 'now': '01:07:10.019000', 'programs': 'nogfkpaecjmihdbl'}
+
+48.0% (480000000/1000000000)
+{'count': 480000000, 'now': '01:07:42.564000', 'programs': 'abcdefghijklmnop'}
+
+49.0% (490000000/1000000000)
+{'count': 490000000, 'now': '01:08:13.456000', 'programs': 'pclhmengojfdkaib'}
+
+50.0% (500000000/1000000000)
+{'count': 500000000, 'now': '01:08:44.451000', 'programs': 'nogfkpaecjmihdbl'}
+
+51.0% (510000000/1000000000)
+{'count': 510000000, 'now': '01:09:15.166000', 'programs': 'abcdefghijklmnop'}
+
+52.0% (520000000/1000000000)
+{'count': 520000000, 'now': '01:09:46.305000', 'programs': 'pclhmengojfdkaib'}
+
+53.0% (530000000/1000000000)
+{'count': 530000000, 'now': '01:10:16.820000', 'programs': 'nogfkpaecjmihdbl'}
+
+54.0% (540000000/1000000000)
+{'count': 540000000, 'now': '01:10:47.452000', 'programs': 'abcdefghijklmnop'}
+
+59.0% (590000000/1000000000)
+{'count': 590000000, 'now': '01:13:20.550000', 'programs': 'nogfkpaecjmihdbl'}
+
+60.0% (600000000/1000000000)
+{'count': 600000000, 'now': '01:13:51.190000', 'programs': 'abcdefghijklmnop'}
+
+61.0% (610000000/1000000000)
+{'count': 610000000, 'now': '01:14:21.783000', 'programs': 'pclhmengojfdkaib'}
+
+62.0% (620000000/1000000000)
+{'count': 620000000, 'now': '01:14:52.787000', 'programs': 'nogfkpaecjmihdbl'}
+
+63.0% (630000000/1000000000)
+{'count': 630000000, 'now': '01:15:23.944000', 'programs': 'abcdefghijklmnop'}
+
+64.0% (640000000/1000000000)
+{'count': 640000000, 'now': '01:15:54.820000', 'programs': 'pclhmengojfdkaib'}
+
+65.0% (650000000/1000000000)
+{'count': 650000000, 'now': '01:16:25.798000', 'programs': 'nogfkpaecjmihdbl'}
+
+66.0% (660000000/1000000000)
+{'count': 660000000, 'now': '01:16:56.425000', 'programs': 'abcdefghijklmnop'}
+
+67.0% (670000000/1000000000)
+{'count': 670000000, 'now': '01:17:27.219000', 'programs': 'pclhmengojfdkaib'}
+
+68.0% (680000000/1000000000)
+{'count': 680000000, 'now': '01:17:57.752000', 'programs': 'nogfkpaecjmihdbl'}
+
+69.0% (690000000/1000000000)
+{'count': 690000000, 'now': '01:18:28.219000', 'programs': 'abcdefghijklmnop'}
+
+70.0% (700000000/1000000000)
+{'count': 700000000, 'now': '01:18:59.037000', 'programs': 'pclhmengojfdkaib'}
+
+71.0% (710000000/1000000000)
+{'count': 710000000, 'now': '01:19:30.210000', 'programs': 'nogfkpaecjmihdbl'}
+
+72.0% (720000000/1000000000)
+{'count': 720000000, 'now': '01:20:01.026000', 'programs': 'abcdefghijklmnop'}
+
+73.0% (730000000/1000000000)
+{'count': 730000000, 'now': '01:20:32.113000', 'programs': 'pclhmengojfdkaib'}
+
+74.0% (740000000/1000000000)
+{'count': 740000000, 'now': '01:21:04.622000', 'programs': 'nogfkpaecjmihdbl'}
+
+75.0% (750000000/1000000000)
+{'count': 750000000, 'now': '01:21:35.862000', 'programs': 'abcdefghijklmnop'}
+
+76.0% (760000000/1000000000)
+{'count': 760000000, 'now': '01:22:06.636000', 'programs': 'pclhmengojfdkaib'}
+
+77.0% (770000000/1000000000)
+{'count': 770000000, 'now': '01:22:37.414000', 'programs': 'nogfkpaecjmihdbl'}
+
+78.0% (780000000/1000000000)
+{'count': 780000000, 'now': '01:23:07.894000', 'programs': 'abcdefghijklmnop'}
+
+79.0% (790000000/1000000000)
+{'count': 790000000, 'now': '01:23:39.028000', 'programs': 'pclhmengojfdkaib'}
+
+80.0% (800000000/1000000000)
+{'count': 800000000, 'now': '01:24:09.602000', 'programs': 'nogfkpaecjmihdbl'}
+
+81.0% (810000000/1000000000)
+{'count': 810000000, 'now': '01:24:40.110000', 'programs': 'abcdefghijklmnop'}
+
+82.0% (820000000/1000000000)
+{'count': 820000000, 'now': '01:25:10.640000', 'programs': 'pclhmengojfdkaib'}
+
+83.0% (830000000/1000000000)
+{'count': 830000000, 'now': '01:25:42.131000', 'programs': 'nogfkpaecjmihdbl'}
+
+84.0% (840000000/1000000000)
+{'count': 840000000, 'now': '01:26:12.715000', 'programs': 'abcdefghijklmnop'}
+
+85.0% (850000000/1000000000)
+{'count': 850000000, 'now': '01:26:43.440000', 'programs': 'pclhmengojfdkaib'}
+
+86.0% (860000000/1000000000)
+{'count': 860000000, 'now': '01:27:14.040000', 'programs': 'nogfkpaecjmihdbl'}
+
+87.0% (870000000/1000000000)
+{'count': 870000000, 'now': '01:27:46.511000', 'programs': 'abcdefghijklmnop'}
+
+88.0% (880000000/1000000000)
+{'count': 880000000, 'now': '01:28:16.858000', 'programs': 'pclhmengojfdkaib'}
+
+89.0% (890000000/1000000000)
+{'count': 890000000, 'now': '01:28:47.348000', 'programs': 'nogfkpaecjmihdbl'}
+
+90.0% (900000000/1000000000)
+{'count': 900000000, 'now': '01:29:17.728000', 'programs': 'abcdefghijklmnop'}
+
+91.0% (910000000/1000000000)
+{'count': 910000000, 'now': '01:29:48.550000', 'programs': 'pclhmengojfdkaib'}
+
+92.0% (920000000/1000000000)
+{'count': 920000000, 'now': '01:30:19.413000', 'programs': 'nogfkpaecjmihdbl'}
+
+93.0% (930000000/1000000000)
+{'count': 930000000, 'now': '01:30:50.661000', 'programs': 'abcdefghijklmnop'}
+
+94.0% (940000000/1000000000)
+{'count': 940000000, 'now': '01:31:21.883000', 'programs': 'pclhmengojfdkaib'}
+
+95.0% (950000000/1000000000)
+{'count': 950000000, 'now': '01:31:53.382000', 'programs': 'nogfkpaecjmihdbl'}
+
+96.0% (960000000/1000000000)
+{'count': 960000000, 'now': '01:32:24.502000', 'programs': 'abcdefghijklmnop'}
+
+97.0% (970000000/1000000000)
+{'count': 970000000, 'now': '01:32:55.780000', 'programs': 'pclhmengojfdkaib'}
+
+98.0% (980000000/1000000000)
+{'count': 980000000, 'now': '01:33:27.048000', 'programs': 'nogfkpaecjmihdbl'}
+
+99.0% (990000000/1000000000)
+{'count': 990000000, 'now': '01:33:58.862000', 'programs': 'abcdefghijklmnop'}
+
+{'count': 1000000000, 'now': '01:34:30.187000', 'programs': 'pclhmengojfdkaib'}
