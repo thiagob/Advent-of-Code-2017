@@ -28,7 +28,7 @@ class Processor():
         return True
 
     def execute_instruction(self, instruction):
-        print "$ {0} | vars: {1} | sounds: {2}".format(instruction, self.variables, self.played_sound)
+        #print "$ {0} | vars: {1} | sounds: {2}".format(instruction, self.variables, self.played_sound)
 
         self.set_offset(0)
 
