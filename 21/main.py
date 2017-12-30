@@ -13,8 +13,9 @@ class Program():
         self.grid = ['.#.', '..#', '###']
         # self.grid = ['010', '001', '111']
 
-    def generate(self):
-        for i in range(0, 5):
+    def generate(self, iterations):
+        for i in range(0, iterations):
+            print 'i = {0}'.format(i)
             self.enhance()
 
     def enhance(self):
@@ -89,16 +90,19 @@ class Program():
         print '-' * len(block)
 
 p = Program(rules)
+p.generate(5)
+print 'Total of pixels: {0}'.format(p.count_pixels(p.grid))
 
 # a = ['.#.','..#','###']
 # blocks = p.get_block_variations(a)
 # for b in blocks:
 #     p.print_block(b)
 
-p.generate()
 
 # for rule, pattern in p.rules:
 #     if p.count_pixels(rule) == 5:
 #         p.print_block(rule)
 
-print 'Total of pixels: {0}'.format(p.count_pixels(p.grid))
+p2 = Program(rules)
+p2.generate(18)
+print 'Total of pixels: {0}'.format(p2.count_pixels(p2.grid))
